@@ -1,0 +1,12 @@
+com\crudfunctionality\dao\UserDaoImpl$UserMapper.class
+com\crudfunctionality\controller\UserController.class
+com\crudfunctionality\formvalidation\FormValidation.class
+com\crudfunctionality\model\User.class
+com\crudfunctionality\formvalidation\EmailValidation.class
+com\crudfunctionality\service\UserService.class
+com\crudfunctionality\service\UserServiceImpl.class
+com\crudfunctionality\config\WebConfig.class
+com\crudfunctionality\config\WebInitializer.class
+com\crudfunctionality\dao\UserDaoImpl.class
+com\crudfunctionality\dao\UserDao.class
+com\crudfunctionality\dao\UserDaoImpl$1.class
